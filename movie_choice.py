@@ -66,13 +66,3 @@ def movie_checker():
 
 
 main()
-
-
-
-
-
-
-
-
-
-
